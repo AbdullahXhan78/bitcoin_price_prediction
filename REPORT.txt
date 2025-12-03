@@ -1,0 +1,21 @@
+PROJECT: Generic Price Prediction — PRO Version
+
+FEATURES:
+- Auto Data Cleaner
+- Candlestick Chart (Plotly)
+- Forecast Slider (3–30 Days)
+- Three ML Models:
+  • Linear Regression
+  • Random Forest
+  • XGBoost
+- Streamlit UI Dashboard
+- R² Model Performance Display
+
+ADVANCED WORKFLOW:
+1. Data Cleaning
+2. Feature Scaling
+3. Future Price Label Shift
+4. Model Training + Evaluation
+5. Forecast Generation
+6. Visualization Dashboard
+
